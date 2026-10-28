@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/spark-rest-auth-bypass">spark-rest-auth-bypass</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/spark-rest-auth-bypass"><strong>https://abraxaslabs.tech/research/spark-rest-auth-bypass</strong></a>
+</p>
+
 
 # spark-rest-auth-bypass
 
